@@ -1,0 +1,24 @@
+{
+	"eventID": "101",
+	"eventProvider": "Eagle",
+	"eventType": "eagle-fund",
+	"eventSubType": "eagle",
+	"eventStartDate": "06/24/2019 20:14:52",
+	"eventEndDate": "06/24/2019 20:14:52",
+	"eventTimeZone": "PST",
+	"eventStatus": "Success",
+	"eventCategory": "",
+	"eventCode": "EVTUSB001",
+	"eventSourceIP": "",
+	"eventMessages": [
+		{
+			"IMPORT_NAME": "NUVEEN SEC YIELD CHECK UPLOADER",
+			"FEED_NAME": "SEC YIELD CHECK UPLOADER",
+			"COMPLETION_DATETIME": "06/24/2019 20:14:52 AM",
+			"FILE_LOCATION": "/temp/",
+			"FILE_NAME": "temp",
+			"SEQUENCE": "loadIntoEagle",
+			"ENENT_ID": "2020020369878to2020_2315"
+		}
+	]
+}
